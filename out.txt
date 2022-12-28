@@ -1,0 +1,2 @@
+Average for even numbers = 7
+Average for odd numbers = 5
